@@ -36,3 +36,7 @@ body {
   width: var(--card_width);
   height: var(--card_height);
 }
+
+.hidden {
+  display: none;
+}
